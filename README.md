@@ -133,7 +133,7 @@ We welcome contributions to our project If you'd like to contribute, please foll
 
 #### License
 
-This project is licensed under [License Name]. For more information, please refer to the LICENSE file in this repository.
+This project is licensed under MIT LICENSE. For more information, please refer to the LICENSE file in this repository.
 
 #### Acknowledgments
 
